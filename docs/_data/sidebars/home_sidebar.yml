@@ -7,24 +7,36 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Export to modules
-      url: /export.html
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Convert to html
-      url: /export2html.html
+      title: DataSets
+      url: /datasets
     - output: web,pdf
-      title: Show doc
-      url: /showdoc.html
+      title: DataBunch for Super Resolution
+      url: /databunch
     - output: web,pdf
-      title: Test functions
-      url: /test.html
+      title: 'SRCNN: Image super-resolution using deep convolutional networks'
+      url: /srcnn
     - output: web,pdf
-      title: Core functions
-      url: /core.html
+      title: 'SRCNN+BN: Image super-resolution using deep convolutional networks +
+        Batch Normalization'
+      url: /srcnn_bn
     - output: web,pdf
-      title: Command line functions
-      url: /cli.html
+      title: 'EPSCN: Real-Time Image and Video Super-Resolution Using an Efficient
+        Sub-Pixel Convolution Neural'
+      url: /epscn
+    - output: web,pdf
+      title: "SRResNet: Photo-Realistic Single Image Super-Resolution using Generative\
+        \ Adversarial Network\uFF08CVPR2017, Oral\uFF09"
+      url: /srresnet
+    - output: web,pdf
+      title: fastai U-Net
+      url: /unet
+    - output: web,pdf
+      title: fastai unet + feature_loss
+      url: /unet_floss
     output: web
-    title: Notebook
+    title: superres
   output: web
   title: Sidebar

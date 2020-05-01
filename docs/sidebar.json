@@ -1,10 +1,13 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "superres": {
+    "Overview": "/",
+    "DataSets": "/datasets",
+    "DataBunch for Super Resolution": "/databunch",
+    "SRCNN: Image super-resolution using deep convolutional networks": "/srcnn",
+    "SRCNN+BN: Image super-resolution using deep convolutional networks + Batch Normalization": "/srcnn_bn",
+    "EPSCN: Real-Time Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolution Neural": "/epscn",
+    "SRResNet: Photo-Realistic Single Image Super-Resolution using Generative Adversarial Network\uff08CVPR2017, Oral\uff09": "/srresnet",
+    "fastai U-Net": "/unet",
+    "fastai unet + feature_loss": "/unet_floss"
   }
 }
